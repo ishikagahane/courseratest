@@ -1,3 +1,3 @@
 # courseratest
-Coursera test repository
+Coursera test repository.
 All Module Solutions in gh pages branch.
